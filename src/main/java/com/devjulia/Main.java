@@ -3,8 +3,10 @@ package com.devjulia;
 import java.util.Random;
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+/** Jogo de Adivinhação
+ Descrição:** Jogo onde o computador escolhe um número aleatório e o usuário tenta adivinhar.
+ Conceitos Abordados:** Geração de números aleatórios, loops, tratamento de exceções básicas.
+ */
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
