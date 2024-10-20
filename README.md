@@ -24,6 +24,3 @@ Adicionar uma opção para reiniciar o jogo após as tentativas se esgotarem.
 Implementar uma interface gráfica para melhorar a usabilidade.
 Criar uma pontuação ou sistema de ranking baseado nas tentativas usadas.
 
-## Contribuições
-Contribuições são bem-vindas! Se você deseja contribuir, sinta-se à vontade para enviar sugestões ou melhorias.
-
